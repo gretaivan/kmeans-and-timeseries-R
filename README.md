@@ -1,26 +1,26 @@
 Process
 Objective 1: Partitioning Clustering on Wine data
-1.	Pre-processing task
-1.1.	Remove missing values in the data set
-1.2.	Review and get to know the data
-1.3.	Checking the types of data
-1.4.	Scaling	
-1.5.	Outliers	
-2.	Ideal number of clusters	
-2.1.	NbClust	
-2.2.	Sum of square error	
-2.3.	Visualising clusters	
-2.4.	Ideal number of clusters with outliers removed	
-3.	K-means with the best two clusters
+1.	Pre-processing task <br />
+  1.1.	Remove missing values in the data set <br />
+ 1.2.	Review and get to know the data <br />
+ 1.3.	Checking the types of data <br />
+ 1.4.	Scaling	<br />
+ 1.5.	Outliers	<br />
+2.	Ideal number of clusters	<br />
+ 2.1.	NbClust	<br />
+ 2.2.	Sum of square error	<br />
+ 2.3.	Visualising clusters	<br />
+ 2.4.	Ideal number of clusters with outliers removed	<br />
+3.	K-means with the best two clusters 
 4.	Check consistency of results against 12th column	
 5.	The mean of each attribute for the winner cluster	
 
 Objective 2: Forecasting currency
 1.	Pre-processing	
-2.	Input	
-2.1.	Stationarity	
-2.2.	Detrending	
-2.3.	Lag values	
+2.	Input	<br />
+2.1.	Stationarity	<br />
+2.2.	Detrending	<br />
+2.3.	Lag values	<br />
 3.	MLP model
 
 Bibliography
