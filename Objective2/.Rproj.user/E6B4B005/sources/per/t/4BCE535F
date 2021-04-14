@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1573061296617.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3259869349",
+    "id" : "4BCE535F",
+    "lastKnownWriteTime" : 1573121782,
+    "last_content_update" : 1573121782425,
+    "path" : "C:/Users/ladyg/Desktop/University/Year 3/Business Intelligence/Coursework/Objective2/script3.R",
+    "project_path" : "script3.R",
+    "properties" : {
+        "cursorPosition" : "449,0",
+        "scrollLine" : "375"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
